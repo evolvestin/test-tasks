@@ -17,8 +17,8 @@
 Отслеживание актуальности данных.
 ### 2. Managers (Менеджеры)
 - `ManagerID` (INT, PK): Уникальный идентификатор менеджера.
-`ManagerName` (VARCHAR): Имя менеджера.
-Department (VARCHAR): Отдел, к которому принадлежит менеджер.
+- `ManagerName` (VARCHAR): Имя менеджера.
+- `Department` (VARCHAR): Отдел, к которому принадлежит менеджер.
 ### 3. Customers (Контрагенты)
 - `CustomerID` (INT, PK): Уникальный идентификатор контрагента.
 - `CustomerName` (VARCHAR): Имя контрагента.
